@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/User/Documents/Vistula Stuff - AdMich/Winter Semester 2026/IT Elective - Team Project/Lab (2026.10.21)/java-crud-72866/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/User/Documents/Vistula Stuff - AdMich/Winter Semester 2026/IT Elective - Team Project/Lab (2026.10.21)/java-crud-72866/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/User/Documents/Vistula Stuff - AdMich/Winter Semester 2026/IT Elective - Team Project/Lab (2026.10.21)/java-crud-72866/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\User\\Documents\\Vistula Stuff - AdMich\\Winter Semester 2026\\IT Elective - Team Project\\Lab (2026.10.21)\\java-crud-72866\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\User\\Documents\\Vistula Stuff - AdMich\\Winter Semester 2026\\IT Elective - Team Project\\Lab (2026.10.21)\\java-crud-72866\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/User/Documents/Vistula Stuff - AdMich/Winter Semester 2026/IT Elective - Team Project/Lab (2026.10.21)/java-crud-72866/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/User/Documents/Vistula Stuff - AdMich/Winter Semester 2026/IT Elective - Team Project/Lab (2026.10.21)/java-crud-72866/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/User/Documents/Vistula Stuff - AdMich/Winter Semester 2026/IT Elective - Team Project/Lab (2026.10.21)/java-crud-72866/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\User\\Documents\\Vistula Stuff - AdMich\\Winter Semester 2026\\IT Elective - Team Project\\Lab (2026.10.21)\\java-crud-72866\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

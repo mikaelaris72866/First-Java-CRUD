@@ -10,3 +10,5 @@ Requires JDK 17+ and Maven (or use IntelliJ IDEA).
 
 ## Screenshots
 See the `doc/` directory.
+
+Updated README
